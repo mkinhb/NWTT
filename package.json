@@ -1,0 +1,8 @@
+{
+  "name": "firewatch-app-static",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "vercel-build": "echo \"Static site with importmaps, no client-side npm build needed.\""
+  }
+}

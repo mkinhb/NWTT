@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Firewatch by NWTT 5/26",
+  "description": "A web application to monitor and manage wildfire incidents with real-time map visualization and incident updates. Users can view active fires, search for specific incidents, and see detailed information including status, size, and containment.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

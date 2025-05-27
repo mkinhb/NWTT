@@ -1,0 +1,23 @@
+{
+  "short_name": "Firewatch",
+  "name": "Firewatch by NWTT - Wildfire Monitoring",
+  "description": "A web application to monitor and manage wildfire incidents with real-time map visualization and incident updates. Users can view active fires, search for specific incidents, and see detailed information including status, size, and containment.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1F2937",
+  "theme_color": "#4F46E5"
+}
